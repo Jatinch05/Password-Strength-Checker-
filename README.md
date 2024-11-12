@@ -38,7 +38,7 @@ pip package manager
 
 Step 1: Clone the Repository 
 
-git clone https://github.com/your-username/password-strength-prediction.git
+git clone https://github.com/Jatinch05/Password-Strength-Checker-
 
 cd password-strength-prediction
 

@@ -3,6 +3,8 @@ import pandas as pd
 import math
 import re
 import nltk
+import os
+nltk.data.path.append(os.path.join(os.getcwd(), 'nltk_data'))
 from nltk.corpus import words
 from collections import Counter
 from functools import lru_cache
